@@ -1,0 +1,15 @@
+.weather-card
+{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    transition: transform 0.3s;
+}
+.weather-cards{
+    display: flex;
+    align-items: center;
+   text-align: center;
+
+}
